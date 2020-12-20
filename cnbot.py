@@ -8,7 +8,7 @@ __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file
 
 
 BOT_PREFIX = "!"
-TOKEN = "NDIyNjk4NDUzNDE2NjczMjgw.DaKg_Q.mcOcI7cSPnXOIGiMOC0UM9Rmh0I"
+TOKEN = ""
 """client = discord.Client() """
 client = Bot(command_prefix=BOT_PREFIX)
 
